@@ -1,0 +1,14 @@
+ru\budkin\controllers\UsersController.class
+ru\budkin\repositories\UsersRepository.class
+ru\budkin\repositories\CrudRepositoryy.class
+ru\budkin\controllers\CarController.class
+ru\budkin\cofig\ApplicationInitializer.class
+ru\budkin\model\User$UserBuilder.class
+ru\budkin\model\Car$CarBuilder.class
+ru\budkin\model\User.class
+ru\budkin\model\Car.class
+ru\budkin\repositories\UsersRepositoryImpl.class
+ru\budkin\repositories\CarRepositoryImpl.class
+ru\budkin\repositories\CrudRepository.class
+ru\budkin\cofig\ApplicationConfig.class
+ru\budkin\repositories\CarRepository.class

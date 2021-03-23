@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="carwashapp:war">
+    <output-path>$PROJECT_DIR$/carwashapp/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>carwashapp</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="carwashapp.war">
+      <element id="artifact" artifact-name="carwashapp:war exploded" />
+    </root>
+  </artifact>
+</component>
